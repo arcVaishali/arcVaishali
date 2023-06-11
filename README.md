@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 This is Vaishali
 
-[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=dark)](https://quine.sh)
+[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
+
 
 <!--
 **arcVaishali/arcVaishali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
