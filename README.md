@@ -33,7 +33,7 @@ Project 2 description goes here.
 
 Project 3 description goes here.
 
-...
+---
 
 <script>
   function searchProjects() {
