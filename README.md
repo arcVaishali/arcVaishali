@@ -3,8 +3,9 @@
 [![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
 
 
-<div> 
-  <input type="text"></input>
+<div align="center">
+  <h6>Search here</h6>
+  <input type="text" placeholder="Search">
 </div>
 <!--
 **arcVaishali/arcVaishali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
