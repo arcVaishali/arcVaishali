@@ -4,7 +4,7 @@
 
 [Vaishali's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=blue-green)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=arcVaishali)
 
 
 [![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
