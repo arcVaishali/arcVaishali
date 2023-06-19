@@ -2,7 +2,9 @@
 
 ![Vaishali's Stats](https://github-readme-stats.vercel.app/api?username=arcVaishali&show_icons=true)
 
-[Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=blue-green)
+[Vaishali's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=blue-green)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
 
 
 [![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
