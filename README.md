@@ -2,6 +2,8 @@
 
 ![Vaishali's Stats](https://github-readme-stats.vercel.app/api?username=arcVaishali&show_icons=true)
 
+[Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=blue-green)
+
 
 [![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
 
