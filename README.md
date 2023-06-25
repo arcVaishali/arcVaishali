@@ -1,13 +1,10 @@
 ## About Me :
 ### Hi there 👋 This is Vaishali 
 
- -  I’m currently working on Web Development projects. <br>
- - I’m currently learning HTML, CSS, JavaScript <br>
- -  How to reach me: <br>
-      + [LinkedIn](https://www.linkedin.com/in/vaishali-p-97326221b/) <br>
-      + Email - vaishali0xe0304@gmail.com <br>
- -  Pronouns: She/Her <br>
-
+- I’m currently working on Web Development projects. <br>
+- I’m currently learning HTML, CSS, JavaScript <br>
+- Email - vaishali0xe0304@gmail.com <br>
+- Pronouns: She/Her <br>
 
 
 ## Socials
@@ -29,11 +26,15 @@
 ## GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=arcVaishali&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=arcVaishali&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ### Quine Stats:
 [![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
+
+<br>
 
 <div align="center">
 
