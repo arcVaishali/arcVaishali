@@ -1,14 +1,17 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Hi there 👋 This is Vaishali 
- 🔭 I’m currently working on Web Development projects. <br>
- 🌱 I’m currently learning HTML, CSS, JavaScript <br>
- 📫 How to reach me: <br>
-      [LinkedIn](https://www.linkedin.com/in/vaishali-p-97326221b/) <br>
-      Email - vaishali0xe0304@gmail.com <br>
- 😄 Pronouns: She/Her <br>
+ - 🔭 I’m currently working on Web Development projects. <br>
+ - 🌱 I’m currently learning HTML, CSS, JavaScript <br>
+ - 📫 How to reach me: <br>
+      + [LinkedIn](https://www.linkedin.com/in/vaishali-p-97326221b/) <br>
+      + Email - vaishali0xe0304@gmail.com <br>
+ - 😄 Pronouns: She/Her <br>
+
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align = "center"> 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=4&rank=C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Vaishali's Stats](https://github-readme-stats.vercel.app/api?username=arcVaishali&show_icons=true)
 
