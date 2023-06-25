@@ -2,7 +2,7 @@
 ### Hi there 👋 This is Vaishali 
 
 - I’m currently working on Web Development projects. <br>
-- I’m currently learning HTML, CSS, JavaScript <br>
+- Currently learning HTML, CSS, JavaScript <br>
 - Email - vaishali0xe0304@gmail.com <br>
 - Pronouns: She/Her <br>
 
