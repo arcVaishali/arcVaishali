@@ -20,8 +20,8 @@
 ## GitHub Stats :
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=dark&hide_border=false&include_all_commits=false&count_private=true) <br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=dark&hide_border=false) <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
  
 </div>
@@ -29,7 +29,12 @@
 
 
 ## GitHub Trophies
+<div align="center">
+
 ![](https://github-trophies.vercel.app/?username=arcVaishali&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+ 
+</div>
+
 
 <br>
 
@@ -37,7 +42,12 @@
 
 
 ## Quine Stats:
+<div align = "center">
+ 
 [![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
+
+</div>
+
 
 <br>
 
