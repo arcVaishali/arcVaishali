@@ -6,6 +6,13 @@
 - Email - vaishali0xe0304@gmail.com <br>
 - Pronouns: She/Her <br>
 
+<div align="center">
+ 
+[![](https://visitcount.itsvg.in/api?id=arcVaishali&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arcVaisahli&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+
+</div>
 
 ## Socials
 <div align="center">
@@ -43,11 +50,7 @@
  
 </div>
 
-
 <br>
-
-[![](https://visitcount.itsvg.in/api?id=arcVaisahli&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
 
 ## Quine Stats:
 <div align = "center">
@@ -56,14 +59,29 @@
 
 </div>
 
-
 <br>
+
+## 🐦 Latest Tweet
+<div align="center">
+
+[![](https://gtce.itsvg.in/api?username=Vaishali_P14)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+ 
+</div>
+
+
+## 🔝 Top Contributed Repo
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=arcVaishali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ 
+</div>
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
 </div>
+
 
 
  
