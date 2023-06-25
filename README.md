@@ -52,7 +52,7 @@
 ## Quine Stats:
 <div align = "center">
  
-[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
+[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=dark)](https://quine.sh)
 
 </div>
 
