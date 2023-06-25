@@ -61,15 +61,17 @@
 
 <br>
 
+<!--
 ## 🐦 Latest Tweet
 <div align="center">
 
 [![](https://gtce.itsvg.in/api?username=Vaishali_P14)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
  
 </div>
+-->
 
 
-## 🔝 Top Contributed Repo
+## Top Contributed Repo
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=arcVaishali&limit=5&theme=dark&combine_all_yearly_contributions=true)
