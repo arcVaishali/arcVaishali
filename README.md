@@ -13,8 +13,6 @@
 
 </div>
 
-<a href="https://app.daily.dev/arcVaishali14"><img src="https://api.daily.dev/devcards/6fc61422fa0c445bb08421db8c2b4185.png?r=8op" width="400" alt="Vaishali P's Dev Card"/></a>
-
 ## Socials
 <div align="center">
  
@@ -84,6 +82,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
 </div>
+
+<a href="https://app.daily.dev/arcVaishali14"><img src="https://api.daily.dev/devcards/6fc61422fa0c445bb08421db8c2b4185.png?r=8op" width="700" alt="Vaishali P's Dev Card"/></a>
+
 
 
 
