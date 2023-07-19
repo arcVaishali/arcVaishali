@@ -77,7 +77,12 @@
  
 </div>
 
-<a href="https://app.daily.dev/arcVaishali14"><img src="https://api.daily.dev/devcards/6fc61422fa0c445bb08421db8c2b4185.png?r=8op" width="400" alt="Vaishali P's Dev Card"/></a>
+<!-- Daily.dev devcard -->
+<div align = "center"> 
+ 
+<a href="https://app.daily.dev/arcVaishali14"><img src="https://api.daily.dev/devcards/6fc61422fa0c445bb08421db8c2b4185.png?r=8op" width="200" alt="Vaishali P's Dev Card"/></a>
+
+</div>
 
 <div align="center">
 
