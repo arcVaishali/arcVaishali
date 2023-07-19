@@ -73,9 +73,11 @@
 ## Top Contributed Repo
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=arcVaishali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=arcVaishali&limit=5&theme=dark&combine_all_yearly_contributions=true)  
  
 </div>
+
+<a href="https://app.daily.dev/arcVaishali14"><img src="https://api.daily.dev/devcards/6fc61422fa0c445bb08421db8c2b4185.png?r=8op" width="400" alt="Vaishali P's Dev Card"/></a>
 
 <div align="center">
 
@@ -83,7 +85,7 @@
  
 </div>
 
-<a href="https://app.daily.dev/arcVaishali14"><img src="https://api.daily.dev/devcards/6fc61422fa0c445bb08421db8c2b4185.png?r=8op" width="700" alt="Vaishali P's Dev Card"/></a>
+
 
 
 
