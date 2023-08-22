@@ -59,19 +59,19 @@
 [![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=dark)](https://quine.sh)
 [![arcVaishali's GitHub | Stats](https://stats.quine.sh/arcVaishali/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
 [![arcVaishali's GitHub | Topics Over Time](https://stats.quine.sh/arcVaishali/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
+[![arcVaishali's GitHub | Dependencies](https://stats.quine.sh/arcVaishali/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
 
 </div>
 
 <br>
 
-<!--
-## 🐦 Latest Tweet
+
+## Latest Tweet
 <div align="center">
 
 [![](https://gtce.itsvg.in/api?username=Vaishali_P14)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
  
 </div>
--->
 
 
 ## Top Contributed Repo
