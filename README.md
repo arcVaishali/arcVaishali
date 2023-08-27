@@ -66,13 +66,14 @@
 <br>
 
 
+<!-- 
 ## Latest Tweet
 <div align="center">
 
 [![](https://gtce.itsvg.in/api?username=Vaishali_P14)](https://github.com/arcVaishali/github-twitter-card-embed)
  
 </div>
-
+-->
 
 ## Top Contributed Repo
 <div align="center">
