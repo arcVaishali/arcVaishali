@@ -69,7 +69,7 @@
 ## Latest Tweet
 <div align="center">
 
-[![](https://gtce.itsvg.in/api?username=Vaishali_P14)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Vaishali_P14)](https://github.com/arcVaishali/github-twitter-card-embed)
  
 </div>
 
