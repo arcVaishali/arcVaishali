@@ -40,7 +40,7 @@
 <div>
  
 ![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=dark&hide_border=false&include_all_commits=false&count_private=true) <br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=dark&hide_border=false) <br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=light&hide_border=false) <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
  
 </div>
