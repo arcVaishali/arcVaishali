@@ -39,9 +39,7 @@
 ## GitHub Stats :
 <div>
  
-![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true) <br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=light&hide_border=false) <br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=light&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
  
 </div>
 
@@ -54,19 +52,19 @@
  
 </div>
 
-<br>
+
 
 ## Quine Stats:
 <div>
  
-[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=dark)](https://quine.sh)
-[![arcVaishali's GitHub | Stats](https://stats.quine.sh/arcVaishali/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
-[![arcVaishali's GitHub | Topics Over Time](https://stats.quine.sh/arcVaishali/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
-[![arcVaishali's GitHub | Dependencies](https://stats.quine.sh/arcVaishali/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
+[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
+[![arcVaishali's GitHub | Stats](https://stats.quine.sh/arcVaishali/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
+[![arcVaishali's GitHub | Topics Over Time](https://stats.quine.sh/arcVaishali/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
+[![arcVaishali's GitHub | Dependencies](https://stats.quine.sh/arcVaishali/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
 
 </div>
 
-<br>
+
 
 
 <!-- 
@@ -81,7 +79,7 @@
 ## Top Contributed Repo
 <div>
 
-![](https://github-contributor-stats.vercel.app/api?username=arcVaishali&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+![](https://github-contributor-stats.vercel.app/api?username=arcVaishali&limit=5&theme=light&combine_all_yearly_contributions=true)  
  
 </div>
 
