@@ -36,7 +36,7 @@
 
 ## Certifications and Badges
 
-<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="200"/>
+<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="200"/> [![An image of @arcvaishali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arcvaishali)](https://holopin.io/@arcvaishali)
 
 ## GitHub Stats :
 <div>
