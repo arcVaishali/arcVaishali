@@ -36,12 +36,12 @@
 
 ## Certifications and Badges
 
-<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="200"/> [![An image of @arcvaishali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arcvaishali)](https://holopin.io/@arcvaishali)
+<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="200"/> ![](https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=light&hide_border=false) [![An image of @arcvaishali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arcvaishali)](https://holopin.io/@arcvaishali)
 
 ## GitHub Stats :
 <div>
  
-![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=light&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
  
 </div>
 
