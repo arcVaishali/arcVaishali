@@ -93,10 +93,6 @@
 </div>
 
 <div>
-<a href=""><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2Fhf2023levels%2Flevel0-blue-0-0-0.webp&w=1920&q=75" width="300" /> </a>
-</div>
-
-<div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
