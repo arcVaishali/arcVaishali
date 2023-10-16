@@ -36,7 +36,7 @@
 
 ## Certifications and Badges
 
-<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="50"/>
+<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="200"/>
 
 ## GitHub Stats :
 <div>
