@@ -58,7 +58,7 @@
 
 ## Snake eating contributions
 
-(![snake gif](https://github.com/arcvaishali/arcvaishali/blob/output/github-contribution-grid-snake.gif))
+![snake gif](https://github.com/arcvaishali/arcvaishali/blob/output/github-contribution-grid-snake.gif)
 
 
 
