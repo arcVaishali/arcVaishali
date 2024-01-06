@@ -161,11 +161,13 @@
 </div>
 
 <!-- Daily.dev devcard -->
-<div> 
- 
+
 <a href="https://app.daily.dev/arcVaishali14"><img src="https://api.daily.dev/devcards/6fc61422fa0c445bb08421db8c2b4185.png?r=8op" width="300" alt="Vaishali P's Dev Card"/></a>
 
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ckxxx5c67hi4rx66bbngmmodam&width=300)
+
+
+
 
 <div>
 
