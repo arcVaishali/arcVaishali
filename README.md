@@ -33,6 +33,22 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+
+  <p align="left">
+<a href="https://codepen.io/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arcvaishali" height="30" width="40" /></a>
+<a href="https://dev.to/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arcvaishali" height="30" width="40" /></a>
+<a href="https://twitter.com/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishali_p14" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaishali-p-97326221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishali-p-97326221b" height="30" width="40" /></a>
+<a href="https://kaggle.com/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arcvaishali" height="30" width="40" /></a>
+<a href="https://instagram.com/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishali_p14" height="30" width="40" /></a>
+<a href="https://hashnode.com/vaishalip14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vaishalip14" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/vaishalip716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaishalip716" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vaishali_p14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaishali_p14" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vaishali_p14" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishali_p14" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vaishalirdj14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaishalirdj14" height="30" width="40" /></a>
+<a href="https://discord.gg/vaishali_p14 #8955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vaishali_p14 #8955" height="30" width="40" /></a>
+</p>
 </div>
 
  <!--
@@ -166,8 +182,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ckxxx5c67hi4rx66bbngmmodam&width=300)
 
-
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arcvaishali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arcvaishali" /></a></p>
 
 
