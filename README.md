@@ -167,6 +167,8 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ckxxx5c67hi4rx66bbngmmodam&width=300)
 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/arcvaishali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arcvaishali" /></a></p>
 
 
 <div>
