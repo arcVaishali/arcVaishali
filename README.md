@@ -8,6 +8,8 @@
 - 📫 How to reach me: vaishali0xe0304@gmail.com <br>
 - 😄 Pronouns: She/Her<br>
 - ⚡ Life is not all about finding yourself. Life is about creating yourself.
+  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <div>     
  
