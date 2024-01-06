@@ -41,7 +41,9 @@
 ## GitHub Stats :
 <div>
  
-![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact) <p>
+<a href="https://vaunt.dev"> <img src="https://api.vaunt.dev/v1/github/entities/arcVaishali/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" /></a>
+</p>
  
 </div>
 
