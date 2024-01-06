@@ -1,13 +1,13 @@
 ## About Me :
 ### Hi there 👋 This is Vaishali 
 
-- 🔭 I’m currently working on various Frontend and Web3 projects.<br>
-- 🌱 I’m currently learning Javascript, React, TailwindCSS.<br>
+- 🔭 I’m currently working on various Web2 and Web3 projects.<br>
+- 🌱 I’m currently learning Javascript and it's frameworks- Reactjs, Nodejs and Expressjs.<br>
 - 👯 I’m looking to team up for Hackathons.<br>
 - 🤔 I’m looking for help with learning and working on Web3 projects.<br>
 - 📫 How to reach me: vaishali0xe0304@gmail.com <br>
 - 😄 Pronouns: She/Her<br>
-- ⚡ Fun fact: What is 2 + 2 ?
+- ⚡ Life is not all about finding yourself. Life is about creating yourself.
 
 <div>     
  
