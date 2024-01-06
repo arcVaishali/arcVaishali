@@ -1,6 +1,8 @@
 ## About Me :
 ### Hi there 👋 This is Vaishali 
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 - 🔭 I’m currently working on various Web2 and Web3 projects.<br>
 - 🌱 I’m currently learning Javascript and it's frameworks- Reactjs, Nodejs and Expressjs.<br>
 - 👯 I’m looking to team up for Hackathons.<br>
@@ -9,7 +11,6 @@
 - 😄 Pronouns: She/Her<br>
 - ⚡ Life is not all about finding yourself. Life is about creating yourself.
   
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <div>     
  
