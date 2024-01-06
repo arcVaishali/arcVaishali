@@ -1,7 +1,7 @@
 ## About Me :
 ### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Vaishali 
 
-<img align="right" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
 - 🔭 I’m currently working on various Web2 and Web3 projects.<br>
 - 🌱 I’m currently learning Javascript and it's frameworks- Reactjs, Nodejs and Expressjs.<br>
