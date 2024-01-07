@@ -130,11 +130,14 @@
  
 
  <img src="https://stats.quine.sh/arcVaishali/languages-over-time?theme=light" height="200" alt=""  />
- 
-[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
+ <img src="https://stats.quine.sh/arcVaishali/github?theme=light" height="200" alt=""  />
+ <img src="https://stats.quine.sh/arcVaishali/dependencies?theme=light" height="200" alt=""  />
+
+ <!--
 [![arcVaishali's GitHub | Stats](https://stats.quine.sh/arcVaishali/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
 [![arcVaishali's GitHub | Topics Over Time](https://stats.quine.sh/arcVaishali/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
 [![arcVaishali's GitHub | Dependencies](https://stats.quine.sh/arcVaishali/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
+-->
 
 ## Snake eating contributions
 
@@ -143,10 +146,15 @@
 ![snake gif](https://github.com/arcvaishali/arcvaishali/blob/output/github-contribution-grid-snake.gif)
 </div>
 
+<img src="https://github-contributor-stats.vercel.app/api?username=arcVaishali&limit=5&theme=light&combine_all_yearly_contributions=true" height="100" alt=""  />
 
+<a href="https://app.daily.dev/arcVaishali14"><img src="https://api.daily.dev/devcards/6fc61422fa0c445bb08421db8c2b4185.png?r=8op" width="100" alt="Vaishali P's Dev Card"/></a>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ckxxx5c67hi4rx66bbngmmodam&width=100)
 
+<p><a href="https://www.buymeacoffee.com/arcvaishali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="50" alt="arcvaishali" /></a></p>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
@@ -157,28 +165,24 @@
 <div>
 
 [![](https://gtce.itsvg.in/api?username=Vaishali_P14)](https://github.com/arcVaishali/github-twitter-card-embed)
+![](https://github-contributor-stats.vercel.app/api?username=arcVaishali&limit=5&theme=light&combine_all_yearly_contributions=true)  
  
 </div>
 -->
 
 
-![](https://github-contributor-stats.vercel.app/api?username=arcVaishali&limit=5&theme=light&combine_all_yearly_contributions=true)  
  
 
 <!-- Daily.dev devcard -->
 
-<a href="https://app.daily.dev/arcVaishali14"><img src="https://api.daily.dev/devcards/6fc61422fa0c445bb08421db8c2b4185.png?r=8op" width="300" alt="Vaishali P's Dev Card"/></a>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ckxxx5c67hi4rx66bbngmmodam&width=300)
-
-<p><a href="https://www.buymeacoffee.com/arcvaishali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arcvaishali" /></a></p>
 
 
-<div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
  
-</div>
+
 
 
 
