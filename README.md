@@ -119,27 +119,22 @@
 
 -->
 
-## Certifications and Badges
+## Badges
 
-<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="200"/> ![](https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=light&hide_border=false) [![An image of @arcvaishali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arcvaishali)](https://holopin.io/@arcvaishali)
+<!--<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="200"/> -->
+[![An image of @arcvaishali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arcvaishali)](https://holopin.io/@arcvaishali)
 
 ## GitHub Stats :
 
- 
-![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact) <p>
-<a href="https://vaunt.dev"> <img src="https://api.vaunt.dev/v1/github/entities/arcVaishali/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" /></a>
-</p>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=light&hide_border=false) ![](https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact) <a href="https://vaunt.dev"> <img src="https://api.vaunt.dev/v1/github/entities/arcVaishali/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" /></a>![](https://github-trophies.vercel.app/?username=arcVaishali&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
  
 
-
-
-
-
-
-
-![](https://github-trophies.vercel.app/?username=arcVaishali&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+ <img src="https://stats.quine.sh/arcVaishali/languages-over-time?theme=light" height="200" alt=""  />
  
-
+[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
+[![arcVaishali's GitHub | Stats](https://stats.quine.sh/arcVaishali/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
+[![arcVaishali's GitHub | Topics Over Time](https://stats.quine.sh/arcVaishali/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
+[![arcVaishali's GitHub | Dependencies](https://stats.quine.sh/arcVaishali/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
 
 ## Snake eating contributions
 
@@ -151,10 +146,6 @@
 
 
 
-[![arcVaishali's GitHub | Languages Over Time](https://stats.quine.sh/arcVaishali/languages-over-time?theme=light)](https://quine.sh)
-[![arcVaishali's GitHub | Stats](https://stats.quine.sh/arcVaishali/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
-[![arcVaishali's GitHub | Topics Over Time](https://stats.quine.sh/arcVaishali/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
-[![arcVaishali's GitHub | Dependencies](https://stats.quine.sh/arcVaishali/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
 
 
 
