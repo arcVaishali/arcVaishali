@@ -1,4 +1,8 @@
 <div align="center">
+
+<img src="https://profile-counter.glitch.me/arcvaishali/count.svg" width="1000"/>
+
+---------------
   
 # About Me :
 ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Vaishali 
@@ -18,10 +22,14 @@
   
 </div>
   
+<br>
+<br>
+<br>
 
 <div>     
  
-[![](https://visitcount.itsvg.in/api?id=arcVaisahli&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=arcVaisahli&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)-->
+
 <a href="https://www.buymeacoffee.com/arcvaishali"> 
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="arcvaishali" />
 </a>
@@ -29,6 +37,9 @@
 </div>
 
 <br>
+<br>
+<br>
+
 
 ## Socials
 <div align="center">
@@ -67,7 +78,10 @@
 -->
 
 
--------
+<br>
+<br>
+<br>
+
 
 ## Tech Stack
 
@@ -130,10 +144,21 @@
 
 -->
 
+
+<br>
+<br>
+<br>
+
+
 ## Badges
 
 <!--<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="200"/> -->
 [![An image of @arcvaishali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arcvaishali)](https://holopin.io/@arcvaishali)
+
+<br>
+<br>
+<br>
+
 
 ## Stats :
  <img src="https://github-trophies.vercel.app/?username=arcVaishali&theme=onedark&no-frame=true&no-bg=true&margin-w=4" width="1000"/>
@@ -152,7 +177,13 @@
 [![arcVaishali's GitHub | Dependencies](https://stats.quine.sh/arcVaishali/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=arcVaishali)
 -->
 
+<br>
+<br>
+<br>
+
+
 <div align="center">
+
   
 ## Snake eating contributions
 
@@ -162,7 +193,10 @@
 
 </div>
 
-------------------------
+<br>
+<br>
+<br>
+
 
 <!--
 <img src="https://github-contributor-stats.vercel.app/api?username=arcVaishali&limit=5&theme=light&combine_all_yearly_contributions=true" height="150" alt=""  /><a href="https://app.daily.dev/arcVaishali14"><img src="https://api.daily.dev/devcards/6fc61422fa0c445bb08421db8c2b4185.png?r=8op" width="150" alt="Vaishali P's Dev Card"/></a> 
@@ -174,7 +208,6 @@
   
 </div>
 -->
-
 
 <div align="center">
   
