@@ -1,6 +1,12 @@
 <div align="center">
-
+  
+<br>
+<br>
+  
 <img src="https://profile-counter.glitch.me/arcvaishali/count.svg" width="1000"/>
+
+<br>
+<br>
 
 ---------------
   
@@ -8,7 +14,10 @@
 ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Vaishali 
 </div>
 
-<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+
 
 <div align="left">
   
