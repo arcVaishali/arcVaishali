@@ -4,7 +4,7 @@
 
 ---------------
   
-# About Me :
+# ✨ About Me 
 ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Vaishali 
 </div>
 
@@ -41,7 +41,7 @@
 <br>
 
 
-## Socials
+## 🎊 Socials
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -83,7 +83,7 @@
 <br>
 
 
-## Tech Stack
+## 👩‍💻 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -150,7 +150,7 @@
 <br>
 
 
-## Badges
+## 🏆 Badges
 
 <!--<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="200"/> -->
 [![An image of @arcvaishali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arcvaishali)](https://holopin.io/@arcvaishali)
@@ -160,7 +160,7 @@
 <br>
 
 
-## Stats :
+## 🔢 Stats 
  <img src="https://github-trophies.vercel.app/?username=arcVaishali&theme=onedark&no-frame=true&no-bg=true&margin-w=4" width="1000"/>
  
 <div align="center">
@@ -181,15 +181,11 @@
 <br>
 <br>
 
+## 🟩 Contibutions Graph
 
 <div align="center">
-
   
-## Snake eating contributions
-
-
-
-![snake gif](https://github.com/arcvaishali/arcvaishali/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/arcVaishali/arcVaishali/blob/output/github-snake-dark.svg)
 
 </div>
 
