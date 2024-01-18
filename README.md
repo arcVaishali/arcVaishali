@@ -214,6 +214,9 @@
   
 </div>
 
+<br>
+<br>
+<img src="https://clipground.com/images/footer-png-6.png" width=1000/>
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ckxxx5c67hi4rx66bbngmmodam&width=300)
 -->
