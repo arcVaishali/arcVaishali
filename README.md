@@ -3,7 +3,7 @@
 <br>
 <br>
   
-<img src="https://profile-counter.glitch.me/arcvaishali/count.svg" width="1000"/>
+<img src="https://profile-counter.glitch.me/arcvaishali/count.svg" width="600"/>
 
 <br>
 <br>
@@ -17,14 +17,9 @@
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
-
-
 <div align="left">
-  
-- 🔭 I’m currently working on various Web2 and Web3 projects.<br>
-- 🌱 I’m currently learning Javascript and it's frameworks- Reactjs, Nodejs and Expressjs.<br>
+- 🌱 I’m currently learning Javascript.<br>
 - 👯 I’m looking to team up for Hackathons.<br>
-- 🤔 I’m looking for help with learning and working on Web3 projects.<br>
 - 📫 How to reach me: vaishali0xe0304@gmail.com <br>
 - 😄 Pronouns: She/Her<br>
 - ⚡ Life is not all about finding yourself. Life is about creating yourself.
