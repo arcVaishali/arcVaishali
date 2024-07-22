@@ -206,9 +206,9 @@
 <div align="center">
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="200" width="500" alt="arcvaishali" />
-
+<!--
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ckxxx5c67hi4rx66bbngmmodam&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ckxxx5c67hi4rx66bbngmmodam&redirect=true)
-
+-->
 </div>
 
 <br>
