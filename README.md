@@ -43,14 +43,14 @@
 
 
 ## 🎊 Socials
-<div align="center">
+<div align="left">
   <!--
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
 -->
-<p align="center">
+<p align="left">
 <!-- <a href="mailto:vaishalirdj14@gmail.com"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a> -->
 <!-- <a href="https://codepen.io/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arcvaishali" height="40" width="52" /></a> -->
 <!-- <a href="https://dev.to/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arcvaishali" height="40" width="52" /></a> -->
@@ -80,7 +80,7 @@
 
 ## 👩‍💻 Tech Stack
 
-<div align="center">
+<div align="left">
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  /> -->
   <!-- <img width="12" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  /> -->
@@ -160,7 +160,7 @@
 <!--
  <img src="https://github-trophies.vercel.app/?username=arcVaishali&theme=onedark&no-frame=true&no-bg=true&margin-w=4" width="1000"/>
  -->
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcVaishali&theme=light&hide_border=false" height="100" alt=""  /><img src="https://github-readme-stats.vercel.app/api?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true" height="100" alt=""  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcVaishali&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="100" alt=""  /><a href="https://vaunt.dev"> <img src="https://api.vaunt.dev/v1/github/entities/arcVaishali/contributions?format=svg&private=true" width="200" height="200" title="Includes public and private contributions" /></a> <img src="https://stats.quine.sh/arcVaishali/languages-over-time?theme=light" height="200" alt=""  /><img src="https://stats.quine.sh/arcVaishali/github?theme=light" height="200" alt=""  /> <img src="https://stats.quine.sh/arcVaishali/dependencies?theme=light" height="200" alt=""  />
   
@@ -180,7 +180,7 @@
 
 ## 🟩 Contibutions Graph
 
-<div align="center">
+<div align="left">
   
 ![snake gif](https://github.com/arcVaishali/arcVaishali/blob/output/github-snake-dark.svg)
 
