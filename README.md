@@ -1,12 +1,12 @@
 <div align="center">
   
-<br>
-<br>
+<!-- <br>
+<br> -->
   
 <!-- <img src="https://profile-counter.glitch.me/arcvaishali/count.svg" width="600"/> -->
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 ---------------
 <!--# ✨ About Me -->
@@ -23,9 +23,9 @@
   
 </div>
   
+<!-- <br>
 <br>
-<br>
-<br>
+<br> -->
 
 <div>     
  
@@ -37,9 +37,9 @@
 
 </div>
 
+<!-- <br>
 <br>
-<br>
-<br>
+<br> -->
 
 
 ## 🎊 Socials
@@ -73,9 +73,9 @@
 -->
 
 
+<!-- <br>
 <br>
-<br>
-<br>
+<br> -->
 
 
 ## 👩‍💻 Tech Stack
@@ -140,9 +140,9 @@
 -->
 
 
+<!-- <br>
 <br>
-<br>
-<br>
+<br> -->
 
 <!--
 ## 🏆 Badges -->
@@ -151,9 +151,9 @@
 <!--
 [![An image of @arcvaishali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arcvaishali)](https://holopin.io/@arcvaishali)
 -->
+<!-- <br>
 <br>
-<br>
-<br>
+<br> -->
 
 
 ## 🔢 Stats 
@@ -174,8 +174,8 @@
 -->
 
 <br>
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 ## 🟩 Contibutions Graph
 
@@ -186,8 +186,8 @@
 </div>
 
 <br>
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 
 <!--
@@ -209,8 +209,8 @@
 -->
 </div>
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 <!-- <img src="https://clipground.com/images/footer-png-6.png" width=1000/> -->
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ckxxx5c67hi4rx66bbngmmodam&width=300)
