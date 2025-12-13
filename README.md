@@ -3,7 +3,7 @@
 <br>
 <br>
   
-<img src="https://profile-counter.glitch.me/arcvaishali/count.svg" width="600"/>
+<!-- <img src="https://profile-counter.glitch.me/arcvaishali/count.svg" width="600"/> -->
 
 <br>
 <br>
@@ -11,16 +11,14 @@
 ---------------
   
 # ✨ About Me 
-## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Vaishali 
+<!-- ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Vaishali -->
 </div>
 
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 <div align="left">
-- 🌱 I’m currently learning Javascript.<br>
-- 👯 I’m looking to team up for Hackathons.<br>
-- 📫 How to reach me: vaishali0xe0304@gmail.com <br>
+- 📫 How to reach me: vaishalirdj14@gmail.com <br>
 - 😄 Pronouns: She/Her<br>
 - ⚡ Life is not all about finding yourself. Life is about creating yourself.
   
@@ -34,9 +32,9 @@
  
 <!-- [![](https://visitcount.itsvg.in/api?id=arcVaisahli&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)-->
 
-<a href="https://www.buymeacoffee.com/arcvaishali"> 
+<!-- <a href="https://www.buymeacoffee.com/arcvaishali"> 
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="arcvaishali" />
-</a>
+</a> -->
 
 </div>
 
@@ -54,19 +52,19 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
 -->
 <p align="center">
-<a href="mailto:vaishalirdj14@gmail.com"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-<a href="https://codepen.io/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arcvaishali" height="40" width="52" /></a>
-<a href="https://dev.to/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arcvaishali" height="40" width="52" /></a>
+<!-- <a href="mailto:vaishalirdj14@gmail.com"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a> -->
+<!-- <a href="https://codepen.io/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arcvaishali" height="40" width="52" /></a> -->
+<!-- <a href="https://dev.to/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arcvaishali" height="40" width="52" /></a> -->
 <a href="https://twitter.com/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishali_p14" height="40" width="52" /></a>
 <a href="https://linkedin.com/in/vaishali-p-97326221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishali-p-97326221b" height="40" width="52" /></a>
-<a href="https://kaggle.com/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arcvaishali" height="40" width="52" /></a>
-<a href="https://instagram.com/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishali_p14" height="40" width="52" /></a>
-<a href="https://hashnode.com/vaishalip14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vaishalip14" height="40" width="52" /></a>
+<!-- <a href="https://kaggle.com/arcvaishali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arcvaishali" height="40" width="52" /></a> -->
+<!-- <a href="https://instagram.com/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishali_p14" height="40" width="52" /></a> -->
+<!-- <a href="https://hashnode.com/vaishalip14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vaishalip14" height="40" width="52" /></a> -->
 <a href="https://www.youtube.com/@vaishalip716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaishalip716" height="40" width="52" /></a>
-<a href="https://www.codechef.com/users/vaishali_p14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaishali_p14" height="30" width="52" /></a>
-<a href="https://codeforces.com/profile/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vaishali_p14" height="40" width="52" /></a>
-<a href="https://www.leetcode.com/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishali_p14" height="40" width="52" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vaishalirdj14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaishalirdj14" height="40" width="52" /></a>
+<!-- <a href="https://www.codechef.com/users/vaishali_p14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaishali_p14" height="30" width="52" /></a> -->
+<!-- <a href="https://codeforces.com/profile/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vaishali_p14" height="40" width="52" /></a> -->
+<!-- <a href="https://www.leetcode.com/vaishali_p14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishali_p14" height="40" width="52" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/vaishalirdj14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaishalirdj14" height="40" width="52" /></a> -->
 <a href="https://discordapp.com/users/986096255132373032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vaishali_p14 #8955" height="40" width="52" /></a>
 </p>
 </div>
@@ -84,36 +82,36 @@
 ## 👩‍💻 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  /> -->
+  <!-- <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  /> -->
+  <!-- <img width="12" /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
@@ -122,13 +120,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  /> -->
 </div>
 
 <!--
@@ -147,12 +145,13 @@
 <br>
 <br>
 
-
-## 🏆 Badges
+<!--
+## 🏆 Badges -->
 
 <!--<img src="https://i.ibb.co/p2R1hq2/AWS-Foundations-badge.png" width="200"/> -->
+<!--
 [![An image of @arcvaishali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arcvaishali)](https://holopin.io/@arcvaishali)
-
+-->
 <br>
 <br>
 <br>
@@ -205,7 +204,7 @@
 
 <div align="center">
   
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="200" width="500" alt="arcvaishali" />
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="200" width="500" alt="arcvaishali" /> -->
 <!--
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ckxxx5c67hi4rx66bbngmmodam&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ckxxx5c67hi4rx66bbngmmodam&redirect=true)
 -->
@@ -213,7 +212,7 @@
 
 <br>
 <br>
-<img src="https://clipground.com/images/footer-png-6.png" width=1000/>
+<!-- <img src="https://clipground.com/images/footer-png-6.png" width=1000/> -->
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ckxxx5c67hi4rx66bbngmmodam&width=300)
 -->
